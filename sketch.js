@@ -22,7 +22,7 @@ function setup() {
 	engine = Engine.create();
 	world = engine.world;
 
-	stoneObj=new stone(235,420,30); 
+	stoneObj=new Stone(235,420,30); 
 
 	mango1=new mango(1100,100,30);
   mango2=new mango(1170,130,30);
